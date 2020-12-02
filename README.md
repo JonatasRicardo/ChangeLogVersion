@@ -47,7 +47,7 @@ INSERT INTO users (name, email)
 ## Installation
 
 ```bash
-git clone git@github.com:taniarascia/node-api-postgres
+git clone https://github.com/igorbraz89/ChangeLogVersion.git
 cd node-api-postgres
 npm install
 node index.js
