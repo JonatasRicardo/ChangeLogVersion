@@ -62,7 +62,8 @@ node index.js
 
 ## Author
 
-- [Tania Rascia](https://www.taniarascia.com)
+- [Tania Rascia](https://www.taniarascia.com) (RESTful API with Node.js, Express, and Postgres)
+- [Igor Braz](https://www.linkedin.com/in/igor-braz-718b519b/) (ChangeLog versioning)
 
 ## License
 
