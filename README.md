@@ -1,4 +1,4 @@
-You can find the base project of the RESTFull API ### [here](https://github.com/taniarascia/node-api-postgres)
+You can find the base project of the RESTFul API [here](https://github.com/taniarascia/node-api-postgres)
 
 # RESTful API with Node.js, Express, and Postgres
 
